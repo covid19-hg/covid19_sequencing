@@ -1,7 +1,7 @@
 # covid19_sequencing
 As part of the COVID-19 Host Genetics Global initative, this repo serves to corroborate sample scripts for the sequencing analysis. The document that the scripts are based on is titled **COVID-19 Host Genetics Initiative: Whole Exome/Genome Sequencing Analysis Plan**: [link found here](https://docs.google.com/document/d/1X_qjplH8T4BJXSeMQ_sBfQUTiu_kAisicOqGb6B8hcM/edit#heading=h.o2bjrcsk8fjw)
 
-The entire analytical plan is using the [Hail](https://hail.is/index.html) software developed by the Broad Institute of Harvard and MIT. 
+The entire QC plan is using the [Hail](https://hail.is/index.html) software developed by the Broad Institute of Harvard and MIT. 
 
 
 **Instructions on running the demonstration**
@@ -22,13 +22,14 @@ _if you are using the `html` file: Hail_COVID19weswgs.html_
 
 Double click on the file to open in your default browser.
 
-_**Take Note**_: NOT all lines can be run and are meant to serve as an example or template to building your own code for your own datasets. Further instructions on building your own pipeline and exploring code can be found on the Hail [documentation](https://hail.is/docs/0.2/index.html).
+_**Take Note**_: NOT all lines can be run and are meant to serve as an example or template to building your own code for your own datasets. Further instructions on building your own pipeline and exploring code can be found on the [Hail documentation](https://hail.is/docs/0.2/index.html).
 
 If you have questions about set up, debugging, or troubleshooting, please get in contact with the Hail team via the [Hail discuss forum](https://hail.is/index.html).
 
 
 
 _The following text is taken from the Google docs_
+
 
 
 **PART 2 : SAMPLE and VARIANT QUALITY CONTROL**
