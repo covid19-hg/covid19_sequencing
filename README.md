@@ -6,7 +6,7 @@ The entire QC plan is using the [Hail](https://hail.is/index.html) software deve
 
 **Instructions on running the demonstration**
 
-1) Clone Git repo `git clone https://github.com/mkveerapen/covid19_sequencing/` or download the files found in this repo  into your local directory.
+1) Clone Git repo `git clone https://github.com/mkveerapen/covid19_sequencing.git` or download the files found in this repo  into your local directory.
 
 2) Install Hail on your local directory by using instructions found [here](https://hail.is/docs/0.2/getting_started.html).
 
