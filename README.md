@@ -14,7 +14,7 @@ The entire QC plan is using the [Hail](https://hail.is/index.html) software deve
 
 _if you are using the Jupyter notebook: Hail_COVID19weswgs.ipynb_
 
-`Jupyter notebook Hail_COVID19weswgs.ipynb`
+`jupyter notebook Hail_COVID19weswgs.ipynb`
 
 This will open up the file in your default browser for interacting with and exploring Hail code.
 
