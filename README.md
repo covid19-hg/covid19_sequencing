@@ -22,7 +22,7 @@ _if you are using the `html` file: Hail_COVID19weswgs.html_
 
 Double click on the file to open in your default browser.
 
-The demo `notebook` prepared is meant as a guide which uses a downsampled 1000 genomes dataset (found in the `resources` folder)
+The demo `notebook` prepared is meant as a guide which uses a downsampled 1000 genomes dataset (found in the `resources/` folder)
 
 _**Take Note**_: NOT all lines can be run and are meant to serve as an example or template to building your own code for your own datasets. Further instructions on building your own pipeline and exploring code can be found on the [Hail documentation](https://hail.is/docs/0.2/index.html).
 
