@@ -28,6 +28,7 @@ _**Take Note**_: NOT all lines can be run and are meant to serve as an example o
 
 If you have questions about set up, debugging, or troubleshooting, please get in contact with the Hail team via the [Hail discuss forum](https://hail.is/index.html).
 
+**In addition** to the test Jupyter notebook, we have also included an example python and R script in the `postSAIGE_QC` directory that will allow you to clean up your data post SAIGE analysis. The python script will clean up your data's header and p-values, whereas the R script will receive the python output to plot QQ and Manhattan plots based on a threshold that you have chosen. The package used in the R script is `R:qqman`. Both scripts were initially written by Juha Karjalainen, PhD and adapted into this directory for the COVID19 project. 
 
 
 _The following text is taken from the Google docs_
